@@ -2,6 +2,7 @@
 
 #getting an arthmatic error
 #commit tag 1
+#commit tag 2
 
 MAX=0
 CURRENT=0
