@@ -1,6 +1,8 @@
 #!/bin/bash
 
 #getting an arthmatic error
+#commit tag 1
+
 MAX=0
 CURRENT=0
 
