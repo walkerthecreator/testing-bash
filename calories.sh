@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #getting an arthmatic error
+#adding feature
 MAX=0
 CURRENT=0
 
