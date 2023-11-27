@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#getting an arthmatic error
 MAX=0
 CURRENT=0
 
